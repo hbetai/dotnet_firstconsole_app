@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hrushikeshbetai/Projects/first app/first app/first app.csproj": {}
+    "/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/first app.csproj": {}
   },
   "projects": {
-    "/Users/hrushikeshbetai/Projects/first app/first app/first app.csproj": {
+    "/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/first app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hrushikeshbetai/Projects/first app/first app/first app.csproj",
+        "projectUniqueName": "/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/first app.csproj",
         "projectName": "first app",
-        "projectPath": "/Users/hrushikeshbetai/Projects/first app/first app/first app.csproj",
+        "projectPath": "/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/first app.csproj",
         "packagesPath": "/Users/hrushikeshbetai/.nuget/packages/",
-        "outputPath": "/Users/hrushikeshbetai/Projects/first app/first app/obj/",
+        "outputPath": "/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hrushikeshbetai/.nuget/NuGet/NuGet.Config"

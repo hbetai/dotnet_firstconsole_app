@@ -15,6 +15,8 @@ Console.WriteLine($"Multiplication: {Multiply(integer_A, integer_B)}");
 Console.WriteLine($"Division: {Divide(integer_A, integer_B)}");
 Console.WriteLine($"Modulus: {Modulus(integer_A, integer_B)}");
 
+
+
 // Functions
 int Add(int a, int b) => a + b;
 int Subtract(int a, int b) => a - b;

@@ -1,0 +1,15 @@
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/bin/Debug/net6.0/first app
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/bin/Debug/net6.0/first app.deps.json
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/bin/Debug/net6.0/first app.runtimeconfig.json
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/bin/Debug/net6.0/first app.dll
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/bin/Debug/net6.0/first app.pdb
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.csproj.AssemblyReference.cache
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.AssemblyInfoInputs.cache
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.AssemblyInfo.cs
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.csproj.CoreCompileInputs.cache
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.dll
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/refint/first app.dll
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.pdb
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/first app.genruntimeconfig.cache
+/Users/hrushikeshbetai/My_Data/Projects/DotNetCSharp/1.dotnet_firstconsole_app/dotnet_firstconsole_app/first app/obj/Debug/net6.0/ref/first app.dll
